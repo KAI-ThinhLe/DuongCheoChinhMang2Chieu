@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\bin\Debug\net8.0\DuongCheoChinh.exe
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\bin\Debug\net8.0\DuongCheoChinh.deps.json
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\bin\Debug\net8.0\DuongCheoChinh.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\bin\Debug\net8.0\DuongCheoChinh.dll
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\bin\Debug\net8.0\DuongCheoChinh.pdb
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\obj\Debug\net8.0\DuongCheoChinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\obj\Debug\net8.0\DuongCheoChinh.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\obj\Debug\net8.0\DuongCheoChinh.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\obj\Debug\net8.0\DuongCheoChinh.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\obj\Debug\net8.0\DuongCheoChinh.dll
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\obj\Debug\net8.0\refint\DuongCheoChinh.dll
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\obj\Debug\net8.0\DuongCheoChinh.pdb
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\obj\Debug\net8.0\DuongCheoChinh.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\DuongCheoChinh\obj\Debug\net8.0\ref\DuongCheoChinh.dll
